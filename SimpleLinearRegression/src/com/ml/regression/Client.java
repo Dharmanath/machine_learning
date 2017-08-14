@@ -34,6 +34,10 @@ public class Client {
 		
 		System.out.println(l);
 		
+		//prediction 
+		
+		System.out.println(l.predict(1));
+		
 	}
 
 

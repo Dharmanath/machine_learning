@@ -37,6 +37,12 @@ public class Line {
 		
 	}
 	
+	public double predict(double x){
+		
+		return (this.slope*x)+this.constant;
+		
+	}
+	
 	@Override
 	public String toString(){
 		return "y = ("+this.slope+" x ) + "+this.constant;		

@@ -17,3 +17,10 @@
 	y = b0 + b1*X1 + b2*X2 +....+bn*Xn <br/>
 	Finding b0, b1 .... bn <br/>
 
+4.  MultipleLinearRegressionGD  <br/>
+	Multiple linear regression using  Gradient Descent <br/>
+	y = b0 + b1*X1 + b2*X2 +....+bn*Xn <br/>
+	Start with random sloples(b1, b2.... bn) and constant(b0) <br/>
+	Minimise the error through epocs <br/>
+	Finding b0, b1 .... bn <br/>
+

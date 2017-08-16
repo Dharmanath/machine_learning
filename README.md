@@ -26,13 +26,7 @@
 
 5.  PolynomialRegression  <br/>
 	Polynomial regression <br/>
-	                                   2                 3                        
-b0  +  ( b1  *  x )  +  ( b2  *   x  ) +  ( b3  *   x  )  +  .....  +  ( bn  *
-                                                                              
-                                      n                                       
-                                     x  )                                     
-
- <br/>
+	y = b0 +(b1 * \x^1)+(b2 *\x^2)+...+(bn * \x^n) <br/>
 	Finding b0, b1 .... bn <br/>
 
 

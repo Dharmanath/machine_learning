@@ -24,3 +24,6 @@
 	Minimise the error through epocs <br/>
 	Finding b0, b1 .... bn <br/>
 
+
+contact me : dharmanathpatil@gmail.com
+

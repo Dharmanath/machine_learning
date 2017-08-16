@@ -24,6 +24,11 @@
 	Minimise the error through epocs <br/>
 	Finding b0, b1 .... bn <br/>
 
+5.  PolynomialRegression  <br/>
+	Polynomial regression <br/>
+	{\displaystyle y=\beta _{0}+\beta _{1}x+\beta _{2}x^{2}+\varepsilon .\,} <br/>
+	Finding b0, b1 .... bn <br/>
+
 
 contact me : dharmanathpatil@gmail.com
 

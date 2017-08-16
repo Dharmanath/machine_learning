@@ -26,7 +26,13 @@
 
 5.  PolynomialRegression  <br/>
 	Polynomial regression <br/>
-	{\displaystyle y=\beta _{0}+\beta _{1}x+\beta _{2}x^{2}+\varepsilon .\,} <br/>
+	                                   2                 3                        
+b0  +  ( b1  *  x )  +  ( b2  *   x  ) +  ( b3  *   x  )  +  .....  +  ( bn  *
+                                                                              
+                                      n                                       
+                                     x  )                                     
+
+ <br/>
 	Finding b0, b1 .... bn <br/>
 
 

@@ -33,6 +33,9 @@
 	Given a datset of n dimension and no of clusters K to be formed<br/>
 	Form K clusters and allocate dataset samples to K clusters<br/>
 
+7. Neural Network <br/>
+	Classification using Neural Network <br/>
+
 
 contact me : dharmanathpatil@gmail.com
 

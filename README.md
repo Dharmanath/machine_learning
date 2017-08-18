@@ -29,6 +29,10 @@
 	y = b0 +(b1 * x^1)+(b2 * x^2)+...+(bn * x^n) $$<br/>
 	Finding b0, b1 .... bn <br/>
 
+6. Clustering <br/>
+	Given a datset of n dimension and no of clusters K to be formed<br/>
+	Form K clusters and allocate dataset samples to K clusters<br/>
+
 
 contact me : dharmanathpatil@gmail.com
 

@@ -37,5 +37,4 @@
 	Classification using Neural Network <br/>
 
 
-contact me : dharmanathpatil@gmail.com
 
